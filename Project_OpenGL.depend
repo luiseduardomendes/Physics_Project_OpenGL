@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1678830553 source:e:\github\project_opengl\main.cpp
+	<GL/glut.h>
+	<cmath>
+	<ctime>
+	<cstdio>
+
