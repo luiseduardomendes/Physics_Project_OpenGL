@@ -1,7 +1,32 @@
 # depslib dependency file v1.0
-1678830553 source:e:\github\project_opengl\main.cpp
+1681871332 source:e:\github\project_opengl\main.cpp
+	"main.hpp"
+
+1681870294 source:e:\github\project_opengl\camera.cpp
+	"camera.hpp"
+
+1681870346 e:\github\project_opengl\camera.hpp
 	<GL/glut.h>
+	<math.h>
+
+1681871354 e:\github\project_opengl\main.hpp
+	<GL/glut.h>
+	"vec.hpp"
+	"camera.hpp"
+	"shapes.hpp"
 	<cmath>
 	<ctime>
 	<cstdio>
+
+1681870407 e:\github\project_opengl\vec.hpp
+	<GL/glut.h>
+
+1681868850 e:\github\project_opengl\shapes.hpp
+	<GL/glut.h>
+
+1681868859 source:e:\github\project_opengl\shapes.cpp
+	"shapes.hpp"
+
+1681870407 source:e:\github\project_opengl\vec.cpp
+	"vec.hpp"
 

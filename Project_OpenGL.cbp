@@ -32,7 +32,14 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="camera.cpp" />
+		<Unit filename="camera.hpp" />
 		<Unit filename="main.cpp" />
+		<Unit filename="main.hpp" />
+		<Unit filename="shapes.cpp" />
+		<Unit filename="shapes.hpp" />
+		<Unit filename="vec.cpp" />
+		<Unit filename="vec.hpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />
